@@ -1,0 +1,47 @@
+[
+  {
+    "name": "LanYun の Blog",
+    "intro": "Share Technology.",
+    "link": "https://lanyundev.com/",
+    "avatar": "https://lanyundev.com/img/logo.jpg.webp",
+    "rss": "https://lanyundev.com/atom.xml",
+    "email": "lanyun@lanyundev.com"
+  },
+  {
+    "name": "Wallleap",
+    "intro": "Luwang's Blog",
+    "link": "https://myblog.wallleap.cn/",
+    "avatar": "https://cravatar.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256",
+    "email": "luwang@oicode.cn"
+  },
+  {
+    "name": "CyanFalse's Weblog",
+    "intro": "I'm CyanFalse,New to Here.",
+    "link": "https://blog.eurekac.cn/",
+    "avatar": "https://cravatar.cn/avatar/15359b6f2fe293366156959c8ab9476f",
+    "email": "chenyf@cyfan.top",
+    "status": "request_update"
+  },
+  {
+    "name": "Ordis",
+    "intro": "船到桥头自然直，柳暗花明又一村",
+    "link": "https://imbhj.com/",
+    "avatar": "https://www.imbhj.com/img/avatar1.png"
+  },
+  {
+    "name": "Kris Yan",
+    "intro": "無限進步 @Schale夏萊",
+    "link": "https://blog.krisyan.dev/",
+    "avatar": "https://avatars.githubusercontent.com/u/90099234",
+    "rss": "https://blog.krisyan.dev/rss",
+    "email": "hi@krisyan.dev"
+  },
+  {
+    "name": "無名小栈",
+    "intro": "分享技术与科技生活",
+    "link": "https://blog.imsyy.top/",
+    "avatar": "https://pic.imgdb.cn/item/65bc52b0871b83018a06699d.png",
+    "rss": "https://blog.imsyy.top/rss.xml",
+    "email": "one@imsyy.top"
+  }
+]

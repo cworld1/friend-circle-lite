@@ -1,0 +1,62 @@
+[
+  {
+    "name": "LanYun の Blog",
+    "intro": "Share Technology.",
+    "link": "https://lanyundev.com/",
+    "avatar": "https://lanyundev.com/img/logo.jpg.webp",
+    "rss": "https://lanyundev.com/atom.xml",
+    "email": "lanyun@lanyundev.com"
+  },
+  {
+    "name": "Wallleap",
+    "intro": "Luwang's Blog",
+    "link": "https://myblog.wallleap.cn/",
+    "avatar": "https://cravatar.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256",
+    "email": "luwang@oicode.cn"
+  },
+  {
+    "name": "Cubik 的小站",
+    "intro": "RECOMMENDED BY DR.CREATIVE",
+    "link": "https://cubik65536.top/",
+    "avatar": "https://img.cubik65536.top/CubikLogo.png",
+    "rss": "https://www.cubik65536.top/atom.xml",
+    "email": "me@cubik65536.top"
+  },
+  {
+    "name": "Young143's Blog",
+    "intro": "如果我死在追逐自由的路上,那便是我的终点.",
+    "link": "https://www.young143.top/",
+    "avatar": "https://www.young143.top/a.jpg",
+    "rss": "https://www.young143.top/feed",
+    "email": "young143@yeah.net"
+  },
+  {
+    "name": "青桔气球",
+    "intro": "分享网络安全与科技生活",
+    "link": "https://blog.qjqq.cn/",
+    "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1645253&spec=640",
+    "email": "chenl@76.al"
+  },
+  {
+    "name": "一叶竹",
+    "intro": "期待下雨天的夜晚",
+    "link": "https://iyyz.org/",
+    "avatar": "https://cravatar.cn/avatar/e6db963600dd82ff9d9e21998b2bd35d"
+  },
+  {
+    "name": "Kris Yan",
+    "intro": "無限進步 @Schale夏萊",
+    "link": "https://blog.krisyan.dev/",
+    "avatar": "https://avatars.githubusercontent.com/u/90099234",
+    "rss": "https://blog.krisyan.dev/rss",
+    "email": "hi@krisyan.dev"
+  },
+  {
+    "name": "猫羽のブログす",
+    "intro": "空中有颗星为你而亮",
+    "link": "https://www.maoyv.com/",
+    "avatar": "https://love-1307045615.cos.ap-chongqing.myqcloud.com/tx_574aac60d580c9f1_ys.jpg",
+    "rss": "https://www.maoyv.com/feed/",
+    "email": "shinanay@qq.com"
+  }
+]
